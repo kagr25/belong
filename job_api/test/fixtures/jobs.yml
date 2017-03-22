@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num1: 1
+  num2: 1
+  status: 1
+  sum: 1
+
+two:
+  num1: 1
+  num2: 1
+  status: 1
+  sum: 1
